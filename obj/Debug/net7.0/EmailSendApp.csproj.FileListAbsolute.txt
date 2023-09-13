@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\EmailSendApp\bin\Debug\net7.0\EmailSendApp.exe
+C:\Users\lab_services_student\source\repos\EmailSendApp\bin\Debug\net7.0\EmailSendApp.deps.json
+C:\Users\lab_services_student\source\repos\EmailSendApp\bin\Debug\net7.0\EmailSendApp.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\EmailSendApp\bin\Debug\net7.0\EmailSendApp.dll
+C:\Users\lab_services_student\source\repos\EmailSendApp\bin\Debug\net7.0\EmailSendApp.pdb
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.dll
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\refint\EmailSendApp.dll
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.pdb
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\EmailSendApp.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\EmailSendApp\obj\Debug\net7.0\ref\EmailSendApp.dll
