@@ -9,13 +9,13 @@ namespace EmailSendApp
         {
             MailMessage mm = new MailMessage();
             SmtpClient sc = new SmtpClient("smtp.gmail.com");
-            mm.From = new MailAddress("yuvinpadayachee@gmail.com");
-            mm.To.Add("yuvinpadayachee@gmail.com");
+            mm.From = new MailAddress("");
+            mm.To.Add("");
             mm.Subject = "Test";
             mm.Body = "This is a test";
             sc.EnableSsl = true;
             sc.Port = 587;
-            sc.Credentials = new System.Net.NetworkCredential("yuvinpadayachee@gmail.com", "hxhj zbyo sktr watq"); 
+            sc.Credentials = new System.Net.NetworkCredential("", ""); 
             
 
             try
